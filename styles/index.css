@@ -1,0 +1,11 @@
+body{
+     background-color: rgb(255, 255, 255);
+     background-image: url(../src/imagens/Livros2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:center;
+}
+h1{
+    color: rgb(255, 0, 230);
+    background-color: rgba(200, 154, 243, 0.375);
+}
